@@ -43,3 +43,10 @@ section {
     border-bottom: 1px solid #ddd;
 }
 
+.projeto {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px;
+    background-color: #f9f9f9;
+    text-align: left;
+}
